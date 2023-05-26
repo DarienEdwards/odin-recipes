@@ -26,6 +26,7 @@
 /* Base Styles
 /******************************************************/
 
+
 body {
 
 }
@@ -38,6 +39,20 @@ header {
 
 }
 
+h1 {
+    width: 100%;
+    height: auto;
+    text-align: center;
+    font-size: 48px;
+}
+
+.myName {
+    text-align: center;
+    font-size: 8px;
+}
+
+
+
 footer {
 
 }
@@ -45,3 +60,11 @@ footer {
 /******************************************************
 /* Additional STYLES
 /******************************************************/
+
+#myvideo {
+
+    display:block;
+    margin: 0;
+    width: 80%;
+    height: auto;
+}
