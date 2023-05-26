@@ -1,2 +1,47 @@
 /* Odin Recipe Project CSS Home Page* Motivation came from here: https://appletri.github.io/odin-recipes/index.html */
 
+/* Box model hack typed out for practice */
+
+* {
+    -moz-box-sizing: border-box;
+}
+
+/* clear fix hack */
+
+.clearfix:after {
+    content: ".";
+    display: block;
+    clear: both;
+    visibility: hidden;
+    line-height: 0;
+    height: 0;
+
+}
+
+.clear {
+    clear: both;
+}
+
+/******************************************************
+/* Base Styles
+/******************************************************/
+
+body {
+
+}
+
+/******************************************************
+/* Layout Styles
+/******************************************************/
+
+header {
+
+}
+
+footer {
+
+}
+
+/******************************************************
+/* Additional STYLES
+/******************************************************/
