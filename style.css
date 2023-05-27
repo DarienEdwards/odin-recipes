@@ -68,3 +68,7 @@ footer {
     width: 80%;
     height: auto;
 }
+
+ul {
+    list-style-type:none;
+}
