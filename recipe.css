@@ -382,7 +382,10 @@ html {
 
 body {
     text-align: center;
-    list-style: none;
+ }
+
+section {
+    text-align: center;
 }
 
 
@@ -399,12 +402,24 @@ header {
     border-radius: 35%;
 }
 
+.container {
+    width: 65%%;
+    height: 100%;
+    border: 1px black solid;
+    border-radius: 15%;
+    
+}
+
 h1 {
-    width: 100%;
     height: auto;
     text-align: center;
     font-size: 48px;
+}
 
+ul, ol {
+    display: inline-block;
+    text-align: left;
+}
 footer {
 
 }
