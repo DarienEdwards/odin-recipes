@@ -403,11 +403,14 @@ header {
 }
 
 .container {
-    width: 65%%;
+    margin:auto;
+    width: 50%;
     height: 100%;
     border: 1px black solid;
-    border-radius: 15%;
+    border-radius: 10%;
     background-color: darkgreen;
+    text-align: center;
+    
     
 }
 
@@ -430,7 +433,11 @@ footer {
 /*******************************************/
 
 
-
+img {
+    margin: auto;
+    width: 50%;
+    height: 25%;
+}
 
 ul {
 
