@@ -30,7 +30,7 @@ html {
     background: rgb(33,49,38);
     background: linear-gradient(45deg, rgba(134,255,0,1) 0%, rgba(24,121,9,1) 100%);
     width: 100vw;
-    height: 100vh;
+    height: 100vmax;
     font-family: sans-serif;
 }
 body {
